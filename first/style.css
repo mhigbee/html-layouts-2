@@ -1,0 +1,72 @@
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.section-one {
+    height:200px;
+    margin: 40px 0px;
+}
+
+.section-one ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.section-one li {
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+}
+
+.section-one li ~ li {
+    margin-left: 4%;
+}
+
+.section-three {
+    height: 400px;
+    margin-bottom: 20px;
+}
+.section-three div {
+    width: 30%;
+    height: 400px;
+    float: left;
+
+}
+
+.section-three div ~ div {
+    width: 70%;
+}
+
+.section-four {
+    height: 200px;
+}
+.col-1 {
+    width: 70%;
+    height: 100%;
+    float: left;
+}
+
+.col-2 {
+    width: 5%;
+    height: 100%;
+    float: left;
+}
+
+.col-3 {
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.red {
+    background-color: red;
+}
+
+.grey {
+    background-color: dimgrey;
+}
+
+.blue {
+    background-color: deepskyblue;
+}
