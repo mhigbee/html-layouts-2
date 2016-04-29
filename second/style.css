@@ -1,0 +1,57 @@
+body {
+    background-color: #C4C4C4;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-one {
+    height:200px;
+    margin: 40px 0px;
+    background-color: white;
+}
+
+.inner-section {
+    padding: 20px;
+}
+
+.section-one ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.section-one li {
+    width: 30%;
+    height: 200px;
+    display: inline-block;
+}
+
+.section-three {
+    height: 400px;
+    margin-bottom: 20px;
+}
+.section-three div {
+    width: 30%;
+    height: 400px;
+    float: left;
+
+}
+
+.section-four {
+    height: 200px;
+}
+
+.red {
+    background-color: red;
+}
+
+.grey {
+    background-color: dimgrey;
+}
+
+.blue {
+    background-color: deepskyblue;
+}
